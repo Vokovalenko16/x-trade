@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Personal were successfully downloaded!
+Initial max execution time = 90
+Files info:
+Site URL = http://localhost/sylo
+Data file = C:/xampp/htdocs/sylo/wp-content/uploads/2019/08/mesmerize-ocdi/demo-content-import-file_2019-08-01__16-59-24.xml
+Widget file = C:/xampp/htdocs/sylo/wp-content/uploads/2019/08/mesmerize-ocdi/demo-widgets-import-file_2019-08-01__16-59-24.json
+Customizer file = C:/xampp/htdocs/sylo/wp-content/uploads/2019/08/mesmerize-ocdi/demo-customizer-import-file_2019-08-01__16-59-24.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Image - Hey! I&#039;m John Doe! - Imported
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+Meta - No Title - Imported
+
+Pages Sidebar : 
+
+Search - Search - Imported
+Pages - Pages - Imported
+Text - Text Box - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
